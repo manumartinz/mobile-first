@@ -5,6 +5,7 @@ It's a simple web that I've been testing my knowledge about CSS and mobile-first
 
 # Mobile view
 ![Alt text](readme/mobile.png)
+(In this case, I added a slider in the prices section made with CSS)
 
 # Tablet view
 ![Alt text](readme/tablet.png)
